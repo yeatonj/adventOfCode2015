@@ -1,4 +1,4 @@
-# Class to determine floors that an elevator travels
+# Program to determine floors that an elevator travels
 # Written for Advent of Code 2015 (completed in 2022)
 # Written by: Joshua Yeaton
 # Written on: 1/8/2023
