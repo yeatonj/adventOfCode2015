@@ -1,5 +1,5 @@
 # Program for mining AdventCoins
-# Written for Advent of Code 2015 (completed in 2022)
+# Written for Advent of Code 2015 (completed in 2023)
 # Written by: Joshua Yeaton
 # Written on: 1/10/2023
 
