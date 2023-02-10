@@ -1,4 +1,4 @@
-# Program for reindeer games
+# Program for Hungry People
 # Written for Advent of Code 2015 (completed in 2023)
 # Written by: Joshua Yeaton
 # Written on: 2/10/2023
